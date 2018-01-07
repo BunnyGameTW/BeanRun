@@ -1,0 +1,12 @@
+﻿  HelloWorldScene.cpp
+d:\cocoside\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccparticlesystemquad.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\cocoside\cocos2d-x\cocos2d-x-3.10\cocos\physics\ccphysicsbody.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\cocoside\cocos2d-x\cocos2d-x-3.10\cocos\physics\ccphysicsshape.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\cocoside\cocos2d-x\cocos2d-x-3.10\cocos\platform\ccsaxparser.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\cocoside\cocos2d-x\cocos2d-x-3.10\cocos\ui\uiscale9sprite.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\cocoside\documents\cocos\cocosprojects\scene101\classes\helloworldscene.cpp(87): warning C4996: 'cocos2d::CallFunc::create': 宣告為已被取代
+  d:\cocoside\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccactioninstant.h(339): note: 請參閱 'cocos2d::CallFunc::create' 的宣告
+  已複製 60 個檔案
+  Scene101.vcxproj -> D:\CocosIDE\Documents\Cocos\CocosProjects\Scene101\proj.win32\Debug.win32\Scene101.exe
+  Scene101.vcxproj -> D:\CocosIDE\Documents\Cocos\CocosProjects\Scene101\proj.win32\Debug.win32\Scene101.pdb (Full PDB)
+  已複製 0 個檔案
